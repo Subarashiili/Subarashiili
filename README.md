@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Subarashiili
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning javascript/lua
-- 📫 How to reach me Subarashi!#0001
+- 👋 Subarashi
+- 🌱 C++, Assembly
+- 📫 contact me on discord or just email me
+k3911368@gmail.com
+bw4q
 
 <!---
 --->
